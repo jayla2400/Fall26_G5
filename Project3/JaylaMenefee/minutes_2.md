@@ -11,6 +11,6 @@ My feature lets students choose a course, enter the study date and duration, and
 
 | PBI                    | Status     | Sprint   | Estimate | Assigned      | Reviewer      |
 |------------------------|------------|----------|----------|---------------|---------------|
-| Study session analysis | To confirm | Sprint 3 | 2 weeks  | Jayla Menefee | Group members |
+| Study session analysis | Completed | Sprint 3 | 2 weeks  | Jayla Menefee | Group members |
 
 This describes my planned feature. The group provided the meeting date and duration; discussion details and progress on this date are awaiting confirmation.
