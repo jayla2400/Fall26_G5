@@ -11,6 +11,6 @@ My part is logging study sessions. I completed a Markdown file explaining how st
 
 | PBI                    | Status    | Sprint   | Estimate     | Assigned      | Reviewer |
 |------------------------|-----------|----------|--------------|---------------|----------|
-| Study session analysis | Completed | Sprint 3 | Not recorded | Jayla Menefee | Pending  |
+| Study session analysis | Completed | Sprint 3 | 2 weeks | Jayla Menefee | Group Members|
 
 This update describes my current completed work. My group provided the meeting date and duration; discussion notes are still pending.
