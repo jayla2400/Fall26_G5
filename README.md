@@ -24,15 +24,15 @@
 
    Product Vision Statement
 
-For students who want to study more consistently, Study Habit Tracker is an app that lets them set study goals, record their study time, and see their progress.
+    For students who want to study more consistently, Study Habit Tracker is an app that lets them set study goals, record their study time, and see their progress.
 
-Role and Self Introduction
+    Role and Self Introduction
 
-My Role: Study Session Logging/Team Member
+    My Role: Study Session Logging/Team Member
 
-I am responsible for the study session logging feature. This feature allows students to select a course, enter the date, and record how much time they spent studying. My goal is to help students keep track of their study hours and develop better study habits.
+    I am responsible for the study session logging feature. This feature allows students to select a course, enter the date, and record how much time they spent studying. My goal is to help students keep track of their study hours and develop better study habits.
 
-#### Minutes
+    #### Minutes
 
     My Meeting Minutes
     1 hour 30 minutes
