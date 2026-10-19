@@ -32,10 +32,11 @@ My Role: Study Session Logging/Team Member
 
 I am responsible for the study session logging feature. This feature allows students to select a course, enter the date, and record how much time they spent studying. My goal is to help students keep track of their study hours and develop better study habits.
 
-Minutes
+#### Minutes
 
-My Meeting Minutes
-1 hour 30 minutes No submission
+    My Meeting Minutes
+    1 hour 30 minutes
+
 
 ### 3. Key'marrion Thomas
 #### Product Vision statement
