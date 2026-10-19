@@ -60,7 +60,7 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Jayla Menefee
 
-See [Jayla Menefee's Project 2](Project2/JaylaMenefee)
+    See [Jayla Menefee's Project 2](Project2/JaylaMenefee)
  
 
 ### Key'marrion Thomas
