@@ -21,8 +21,22 @@
     1 hour 30 minutes
 
 ### 2. Jayla Menefee
+#### Product Vision statment
 
-    No submission
+For students who want to study more consistently, Study Habit Tracker is an app that lets them set study goals, record their study time, and see their progress.
+
+Role and self introduction
+
+My Role: Logging Study Sessions/Team Member
+
+I am responsible for helping develop the study session logging feature. Students will be able to select a course, enter the date, and record how much time they spent studying. The app will save their study sessions so they can review their study history and track their progress toward their goals.
+
+Minutes
+
+My Meeting Minutes
+
+1 hour 30 minutes
+    
 
 ### 3. Key'marrion Thomas
 #### Product Vision statement
